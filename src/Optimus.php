@@ -7,7 +7,7 @@ class Optimus {
     /**
      * @var int
      */
-    const MAX_INT = 2147483647;
+    const MAX_INT = 9223372036854775807;
 
     /**
      * @var int
